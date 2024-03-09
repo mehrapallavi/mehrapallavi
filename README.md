@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehrapallavi/Food-Ordering-System.git](https://github.com/mehrapallavi/Food-Ordering-System.git)
 
-- 📫 How to reach me **pallavimehraogs@gmail.com**
+- 📫 Reach me at : **pallavimehraogs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
